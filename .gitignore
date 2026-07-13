@@ -1,0 +1,22 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# IDE and OS metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Private credentials and local configuration
+nyaya-mitra-3df4c-22c18cac6e9f.json
+.streamlit/secrets.toml
+.env
+.env.*
+
+# User uploads and generated local indexes
+testing_pdf/
+ipc_embed_db/
+
