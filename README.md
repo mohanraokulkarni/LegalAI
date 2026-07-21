@@ -141,4 +141,4 @@ Streamlit will print the local application URL, normally `http://localhost:8501`
 
 ## Author
 
-Mohan Rao — [mohanraokulkarni](https://github.com/mohanraokulkarni)
+Mohanrao Kulkarni — [mohanraokulkarni](https://github.com/mohanraokulkarni)
